@@ -1,0 +1,25 @@
+/** {*/
+/*    text-align: center;*/
+/*}*/
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #004f8b;
+    background-color: lightpink;
+    margin-bottom: 0;
+}
+
+.image-div {
+    text-align: center;
+}
+
+p,
+ul,
+ol {
+    font-size: 14pt;
+    background-color: #d5d79c;
+    margin: 0;
+}
